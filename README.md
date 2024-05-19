@@ -1,9 +1,9 @@
-## Author: Aleksejs Vesjolijs. This code is part of PhD Thesis "Assessment methodology for Hyperloop technology implementation."
-## Research: "Implementation Framework for Hyperloop Decision-Making Ecosystem"
-## Institute: Transport and Telecommunication Institute
-## All rights reserved.
+### Author: Aleksejs Vesjolijs. This code is part of PhD Thesis "Assessment methodology for Hyperloop technology implementation."
+### Research: "Implementation Framework for Hyperloop Decision-Making Ecosystem"
+### Institute: Transport and Telecommunication Institute
+### All rights reserved.
 
-## Unit test location: tests/unit
+### Unit test location: tests/unit
 
 # RESULTS
 
